@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 📚 I’m studying on Yonsei university<br/>
 🌱 I am currently studying Web Full-Stack development knowledge<br/>
-📫 How to reach me: changyong0605@gmail.com<br/>
+📫 How to reach me: gusdnwjd3@gmail.com<br/>
 
 #
 
